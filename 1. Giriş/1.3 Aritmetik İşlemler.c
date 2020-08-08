@@ -1,4 +1,4 @@
-// 1.3 Aritmetik Ýþlemler
+// 1.3 Aritmetik Ä°ÅŸlemler
 
 #include <stdio.h>
 
