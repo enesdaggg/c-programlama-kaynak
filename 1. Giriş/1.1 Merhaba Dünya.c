@@ -1,6 +1,6 @@
-// 1.1 Merhaba Dünya 
-/* Çok satırlı
-açıklama metni */
+// 1.1 Merhaba DÃ¼nya 
+/* Ã‡ok satÄ±rlÄ±
+aÃ§Ä±klama metni */
 
 #include <stdio.h>
 
