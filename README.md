@@ -1,1 +1,1 @@
-# c-programlama-kaynak
+# c_prog_gelisim_sureci
