@@ -1,4 +1,4 @@
-// 1.4 Eþitlik ve Ýliþkisel Ýþlemler
+// 1.4 EÅŸitlik ve Ä°liÅŸkisel Ä°ÅŸlemler
 
 #include <stdio.h>
 
